@@ -1,3 +1,3 @@
 module RailsLatex
-  VERSION = "2.3.3"
+  VERSION = "2.4.0"
 end
